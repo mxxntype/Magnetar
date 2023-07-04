@@ -1,0 +1,13 @@
+name = "Dracula Theme Hybrid"
+filename = "Dracula Theme Hybrid - v1.0B1 - MC 1.19.2-1.19.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YzuzdgmI/versions/uvf8lx6b/Dracula%20Theme%20Hybrid%20-%20v1.0B1%20-%20MC%201.19.2-1.19.zip"
+hash-format = "sha1"
+hash = "7de2304fe31de1b5cdb271060b8e0c58aa65112c"
+
+[update]
+[update.modrinth]
+mod-id = "YzuzdgmI"
+version = "uvf8lx6b"

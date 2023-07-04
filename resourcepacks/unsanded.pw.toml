@@ -1,0 +1,13 @@
+name = "Unsanded"
+filename = "Unsanded-1.1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7NbVoBtO/versions/SBu7T26b/Unsanded-1.1.1.zip"
+hash-format = "sha1"
+hash = "0492781ab7e2075b87d0d54823867dbfa956c42a"
+
+[update]
+[update.modrinth]
+mod-id = "7NbVoBtO"
+version = "SBu7T26b"

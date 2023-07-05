@@ -201,6 +201,11 @@ hash = "bf37aa65287c8b70583b0984e970851e71731e997404fd155a45157af77f582b"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "eb80f62ab99bd4f104b09f5a4c85a521b93b188e01a5a9f41cf470b56c4a25e7"
 metafile = true

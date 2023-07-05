@@ -1,12 +1,12 @@
 name = "Magnetar"
 author = "mxxntype"
-version = "1.1.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f3974d207e628a675e7b8ca94e99c071fddd88490d1be53839d6ef834ee95b78"
+hash = "c187386b3945f03ae560bc5e4d8e819476c40cf78e57736f895f11ac7baa1c04"
 
 [versions]
 minecraft = "1.19.2"

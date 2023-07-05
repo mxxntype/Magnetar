@@ -379,11 +379,6 @@ hash = "8338c542fdd6a7b99c6cc506127463296d6676dc3174bc5582b91643f3341ea2"
 metafile = true
 
 [[files]]
-file = "mods/create-renewable-ores.pw.toml"
-hash = "fd20d186c194b41b945a5308ff42136965464d311a4b29d3b4f6866616860bae"
-metafile = true
-
-[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "4624545fb9b7d701566f0766e803835fdf4d3a0471bf34fbca9ccb72a7290f29"
 metafile = true

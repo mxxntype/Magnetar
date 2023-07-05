@@ -1,0 +1,13 @@
+name = "Cluttered"
+filename = "Cluttered-2.0-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UnAEo77V/versions/MSC5dknS/Cluttered-2.0-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "8ff72d03925fb90f05c42245f5f0db7eb4ddea5e"
+
+[update]
+[update.modrinth]
+mod-id = "UnAEo77V"
+version = "MSC5dknS"

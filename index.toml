@@ -354,6 +354,11 @@ hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "bd28a7c914104487e9f8887c43cf0adb8234cbe83742c96b3cce7eebe99a46cf"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
@@ -384,6 +389,11 @@ hash = "f8584aeb2b46433f19e99744c78668ad93442f20fe4f90d3a33cdd2cb282b284"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "26dcd1c29f902928f67cbae7e8de2cc7b301469547a023df352c7115a51bd99c"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "42769f9f49e92381784bfd76663091033e101909515dcf7459b1cdd48388bf1d"
 metafile = true
@@ -409,8 +419,23 @@ hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
 
 [[files]]
+file = "mods/dcwa.pw.toml"
+hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "59c6d5913981335b2a8870c74497807e575ee5d2843391ef708527bdbb1adbc8"
+metafile = true
+
+[[files]]
 file = "mods/difficulty.pw.toml"
 hash = "cd6e2d95fbde653c4e39695176dfb06b33622131c6f6836d776d3ad282f24297"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "6d699475c6723e066a6346f6d85b90a5cbc8adc3efe615e0dbcb6cded6ef9a57"
 metafile = true
 
 [[files]]
@@ -419,8 +444,23 @@ hash = "44ef7c1aa70b35cd1fc284bce0b94a8524822670e20b8407cfdc0537cb4fb9d1"
 metafile = true
 
 [[files]]
+file = "mods/durability-plus.pw.toml"
+hash = "a8cc0a09d6c4e5df9c831b572ce937a0b348d8aa215e76cc2890b0fd8de0b816"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "b422ec1b7719d71b63a149cb9caa83deb5ddeceaa3810cce0c23b6fd8f52f654"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "4808becb244f30886c078a49a7cf1c5adeec6884d82fea283bf8834a3763edd7"
 metafile = true
 
 [[files]]
@@ -469,6 +509,11 @@ hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "9616da43fd3b03c0970349a2bd28772705b7ee18bc1bac160332725210a09eab"
 metafile = true
@@ -491,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "f2f1e367db24438a14def157f593f2d7e6300c35a12054cec43a8e25a736edde"
 metafile = true
 
 [[files]]
@@ -559,8 +609,23 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "929d8fcc448b029fd49f0cbe409d3f01f5a4a4ce2efa0d432bff825ab297c7be"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "8d8af67b3682e79c504e52e1dc539c01107e9f8bc58d0da7eec54626d00669d5"
 metafile = true
 
 [[files]]
@@ -589,6 +654,11 @@ hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "290133e9c4f5a21870c679056f33e427ab27697836ba78e66db0669b1917a447"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
@@ -611,6 +681,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "90f8d140be45787ddb039f62015362d54ead182ef6c40761067db709e1d349be"
+metafile = true
+
+[[files]]
+file = "mods/moremusic.pw.toml"
+hash = "4444dd265044a2d24f4ca071269419d35dae1e42c78a3bed26a8a5004c83c81d"
 metafile = true
 
 [[files]]
@@ -674,6 +749,11 @@ hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "99c8a639eaa387b2b24f1a5b3c1abd7d0573fc3010ea5558149153a0b8587017"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
@@ -714,6 +794,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
@@ -736,6 +821,16 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "752faeacb8ac21375a37e1b96a0086656df60723cdca24625bf06275dd79bba2"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "c71af8cb740fbf42b489ab24ee01ea0d09c3329cb9a62108b2b9dd85e721b3c8"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
@@ -786,6 +881,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "SIHYWTCAMD"
+filename = "sihywtcamd-1.7.2+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EutyxFnb/versions/jItlhEw2/sihywtcamd-1.7.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "41e4af12bdcfc553c7bb6872b37821bfe2273fac"
+
+[update]
+[update.modrinth]
+mod-id = "EutyxFnb"
+version = "jItlhEw2"

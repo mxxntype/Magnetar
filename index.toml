@@ -41,8 +41,18 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "4624545fb9b7d701566f0766e803835fdf4d3a0471bf34fbca9ccb72a7290f29"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
+metafile = true
+
+[[files]]
+file = "mods/difficulty.pw.toml"
+hash = "cd6e2d95fbde653c4e39695176dfb06b33622131c6f6836d776d3ad282f24297"
 metafile = true
 
 [[files]]
@@ -86,6 +96,11 @@ hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
 metafile = true
 
 [[files]]
+file = "mods/farsighted-mobs.pw.toml"
+hash = "9c7384b9e582cb13a4335aecc4f65a06822eab66c75afdb4e20ca1e76e52b082"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
@@ -98,6 +113,16 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-quilt.pw.toml"
+hash = "56e6a38e855626a5a4e621df4af12d1396e7be90ddd87565bd45fe480df16551"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
@@ -151,6 +176,11 @@ hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
@@ -161,8 +191,23 @@ hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
 
 [[files]]
+file = "mods/mythic-mobs.pw.toml"
+hash = "225937f9177ce0d2aa97dd32fde01dba3da71e3db39c15a496c870210c162ab9"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "bf37aa65287c8b70583b0984e970851e71731e997404fd155a45157af77f582b"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "eb80f62ab99bd4f104b09f5a4c85a521b93b188e01a5a9f41cf470b56c4a25e7"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
@@ -186,6 +231,16 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
+metafile = true
+
+[[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -203,6 +258,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/variety-api.pw.toml"
+hash = "ac91dda6346a937ede0af4c3ca6efbcfa4e523108994afd523faa5e45aedf813"
+metafile = true
+
+[[files]]
+file = "mods/variety-aquatic.pw.toml"
+hash = "1faf6e4b5bc327c3a7a4e92a27c4e137de1fc41fc13dd04678a140137ca66f8a"
 metafile = true
 
 [[files]]

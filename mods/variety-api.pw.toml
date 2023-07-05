@@ -1,0 +1,13 @@
+name = "Variety API"
+filename = "VarietyAPI-1.0 (1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vnV0TwBF/versions/LvqCHvJW/VarietyAPI-1.0%20%281%29.jar"
+hash-format = "sha1"
+hash = "f50beda391c344b88968ad44a43bac6d2219ffe2"
+
+[update]
+[update.modrinth]
+mod-id = "vnV0TwBF"
+version = "LvqCHvJW"

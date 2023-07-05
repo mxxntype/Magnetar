@@ -1,0 +1,13 @@
+name = "Mythic Mobs"
+filename = "mythicmobs-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/avrKhvsK/versions/MRlEAU6Y/mythicmobs-1.2.3.jar"
+hash-format = "sha1"
+hash = "89488fb4b29735aa22cd8a4aa7bff4c41ae3ac60"
+
+[update]
+[update.modrinth]
+mod-id = "avrKhvsK"
+version = "MRlEAU6Y"

@@ -141,6 +141,11 @@ hash = "56e6a38e855626a5a4e621df4af12d1396e7be90ddd87565bd45fe480df16551"
 metafile = true
 
 [[files]]
+file = "mods/funky-flora.pw.toml"
+hash = "4681534d5d94bdae13866d8ca7b23cd3aba5804f03e41e3b154c7a83c08a6b3b"
+metafile = true
+
+[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "7a2eac29c0d88310487ceb0951fa6fe686a799d0e352448776e9cfffc98fa0a1"
 metafile = true

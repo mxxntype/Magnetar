@@ -689,6 +689,11 @@ hash = "066c8f73363ff93fcd59f703d918350044b605f5709d03dbcad58f66d223a959"
 metafile = true
 
 [[files]]
+file = "mods/tinkerers-smithing.pw.toml"
+hash = "752faeacb8ac21375a37e1b96a0086656df60723cdca24625bf06275dd79bba2"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "71b666322e9d5576b92da3ae8c22c5e7d62c9715c0e874dee94dfd2e8a61c9af"
 metafile = true

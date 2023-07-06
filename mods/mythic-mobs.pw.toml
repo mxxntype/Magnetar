@@ -1,13 +1,13 @@
 name = "Mythic Mobs"
-filename = "mythicmobs-1.2.3.jar"
+filename = "mythicmobs-1.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/avrKhvsK/versions/MRlEAU6Y/mythicmobs-1.2.3.jar"
+url = "https://cdn.modrinth.com/data/avrKhvsK/versions/U5NRQt70/mythicmobs-1.2.4.jar"
 hash-format = "sha1"
-hash = "89488fb4b29735aa22cd8a4aa7bff4c41ae3ac60"
+hash = "5a86563ea14320a97f3007d2bce0f5725921f681"
 
 [update]
 [update.modrinth]
 mod-id = "avrKhvsK"
-version = "MRlEAU6Y"
+version = "U5NRQt70"

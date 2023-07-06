@@ -1,0 +1,13 @@
+name = "Random Bone Meal Flowers"
+filename = "randombonemealflowers-1.19.2-4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/17enPZMC/versions/iGwZsnoU/randombonemealflowers-1.19.2-4.1.jar"
+hash-format = "sha1"
+hash = "aa48e4955f5761d1aaea5276ed97cf1a9ef87f4a"
+
+[update]
+[update.modrinth]
+mod-id = "17enPZMC"
+version = "iGwZsnoU"

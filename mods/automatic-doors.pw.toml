@@ -1,0 +1,13 @@
+name = "Automatic Doors"
+filename = "automaticdoors-1.19.2-4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PGBgocFc/versions/8EeKz1va/automaticdoors-1.19.2-4.4.jar"
+hash-format = "sha1"
+hash = "c8a8dfe60521d4b1f808264760f1b2b05642b105"
+
+[update]
+[update.modrinth]
+mod-id = "PGBgocFc"
+version = "8EeKz1va"

@@ -335,11 +335,6 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
-file = "mods/eldritch-mobs.pw.toml"
-hash = "9556be5d7e79912e8ac4223c4016e8751d497e8cbe4eb4932e2ef0417fc3e077"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "648e40ae6800f9d52f0904a0e26f4528aece26856fd7f6dd9f2ccdfdc2d1e2e3"
 metafile = true

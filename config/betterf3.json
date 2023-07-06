@@ -1,0 +1,156 @@
+{
+	"modules_left": [
+		{
+			"name": "fps",
+			"color_high": 5307003,
+			"color_med": 16758892,
+			"color_low": 16733525,
+			"enabled": true,
+			"lines": {
+				"fps": true
+			}
+		}, 
+		{
+			"name": "coords",
+			"name_color": 16316658,
+			"color_x": 16733525,
+			"color_y": 16742854,
+			"color_z": 12424185,
+			"enabled": true,
+			"lines": {
+				"player_coords": true,
+				"block_coords": true,
+				"chunk_relative_coords": true,
+				"chunk_coords": true
+			}
+		}, 
+		{
+			"name": "location",
+			"name_color": 16316658,
+			"value_color": 5307003,
+			"enabled": true,
+			"lines": {
+				"dimension": true,
+				"facing": true,
+				"rotation": true,
+				"light": true,
+				"light_server": true,
+				"highest_block": true,
+				"highest_block_server": true,
+				"biome": true,
+				"local_difficulty": true,
+				"day_ticks": true,
+				"days_played": true,
+				"slime_chunk": true
+			}
+		}, 
+		{
+			"name": "server",
+			"name_color": 16316658,
+			"value_color": 15858316,
+			"enabled": true,
+			"lines": {
+				"server_tick": true,
+				"packets_sent": true,
+				"packets_received": true
+			}
+		}
+	],
+	"modules_right": [
+		{
+			"name": "minecraft",
+			"name_color": 12424185,
+			"value_color": 16316658,
+			"enabled": true,
+			"lines": {
+				"minecraft": true
+			}
+		}, 
+		{
+			"name": "system",
+			"name_color": 16316658,
+			"value_color": 9169405,
+			"enabled": true,
+			"lines": {
+				"time": true,
+				"java_version": true,
+				"memory_usage": true,
+				"allocation_rate": true,
+				"allocated_memory": true,
+				"cpu": true,
+				"display": true,
+				"gpu": true,
+				"opengl_version": true,
+				"gpu_driver": true
+			}
+		}, 
+		{
+			"name": "target",
+			"name_color": 16316658,
+			"value_color": 16758892,
+			"enabled": true,
+			"lines": {
+				"targeted_block": true,
+				"id_block": true,
+				"block_states": true,
+				"block_tags": true,
+				"nothing": true,
+				"targeted_fluid": true,
+				"id_fluid": true,
+				"fluid_states": true,
+				"fluid_tags": true,
+				"nothing2": true,
+				"targeted_entity": true
+			}
+		}, 
+		{
+			"name": "entity",
+			"name_color": 16316658,
+			"value_color": 15858316,
+			"total_entities_color": 16733525,
+			"enabled": true,
+			"lines": {
+				"particles": true,
+				"entities": true,
+				"monster": true,
+				"creature": true,
+				"ambient": true,
+				"axolotls": true,
+				"underground_water_creature": true,
+				"water_creature": true,
+				"water_ambient": true,
+				"misc": true,
+				"fireflies": true,
+				"dragonflies": true,
+				"glares": true
+			}
+		}, 
+		{
+			"name": "sound",
+			"name_color": 16316658,
+			"value_color": 12424185,
+			"maximum_color": 16733525,
+			"enabled": true,
+			"lines": {
+				"sounds": true,
+				"ambient_sounds": true,
+				"mood": true
+			}
+		}
+	],
+	"general": {
+		"disable_mod": false,
+		"auto_start": false,
+		"space_modules": true,
+		"shadow_text": true,
+		"animations": false,
+		"animationSpeed": 1.0,
+		"fontScale": 1.0,
+		"background_color": -14144970,
+		"hide_debug_crosshair": false,
+		"hide_sidebar": true,
+		"hide_bossbar": true,
+		"always_show_profiler": false,
+		"always_show_tps": false
+	}
+}

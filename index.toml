@@ -806,6 +806,10 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
+file = "resourcepacks/TZP_1.19.2_2.6.zip"
+hash = "ff4a594be243cdd8dcf153131199f916f99bf514f85d84bf80a0d99470bedb04"
+
+[[files]]
 file = "resourcepacks/balanced-music.pw.toml"
 hash = "87b84c1342639d14cb0d89ad1aa7ba932aa5c766c5adde3d073ab8c565f7b435"
 metafile = true

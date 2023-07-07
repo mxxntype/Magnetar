@@ -561,6 +561,11 @@ hash = "90f8d140be45787ddb039f62015362d54ead182ef6c40761067db709e1d349be"
 metafile = true
 
 [[files]]
+file = "mods/more-explosives.pw.toml"
+hash = "0699478880ec5340ac82bd4d0f7cea197b9883554f2843926b8e020e79f0f423"
+metafile = true
+
+[[files]]
 file = "mods/moremusic.pw.toml"
 hash = "4444dd265044a2d24f4ca071269419d35dae1e42c78a3bed26a8a5004c83c81d"
 metafile = true
@@ -573,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "bf37aa65287c8b70583b0984e970851e71731e997404fd155a45157af77f582b"
+metafile = true
+
+[[files]]
+file = "mods/nbt-crafting.pw.toml"
+hash = "092562cce93b133cdd4f9a0004a104914fd9f639941fb4c2401054fac0124f15"
 metafile = true
 
 [[files]]

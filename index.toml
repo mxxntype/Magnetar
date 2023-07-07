@@ -781,6 +781,11 @@ hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true
 
 [[files]]
+file = "mods/zombie-apocalypse.pw.toml"
+hash = "ee8afaf6efa971392674fb78f362e4234f42cde24b4ea1645cecc3703cec7a5c"
+metafile = true
+
+[[files]]
 file = "mods/zombify.pw.toml"
 hash = "47088819ab1957c17e7fba7f34374dba00a891fe4b5b962a46a0dbe5291f63f3"
 metafile = true

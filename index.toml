@@ -5,6 +5,10 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
+file = "config/automaticdoors.json5"
+hash = "50efc8ee21730a337b53b7dd6c8b37d064a60e9a572acd2aa961050abb8b7370"
+
+[[files]]
 file = "config/bettercombat/client.json5"
 hash = "775fa0ed0b90d50b90a85f0594769d3da9f7450b390b28b62a1787d4ab848c67"
 
@@ -35,6 +39,10 @@ hash = "c433167e240a6612e2993f19293cc1281de444f92bf8f764a6303a306b09a07f"
 [[files]]
 file = "config/farsighted_mobs.json5"
 hash = "1f38f70265b93e9747868be992d27c09e759f6fa37a0f3cbbc09f4689561889c"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "7994ffd6c13fb8c5f42d137fb9a89455878f1c63f36e306271433db4da3c7bcd"
 
 [[files]]
 file = "config/iris.properties"
@@ -117,6 +125,10 @@ file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
+file = "config/travelerstitles-fabric-1_19.toml"
+hash = "a659c2fdaf761fbc5edb8a38d6eed48e703ad318b4ac72e89b111fdf8ae079e0"
+
+[[files]]
 file = "config/varietyaquatic.json"
 hash = "f9624e3be3480a880544f8d0d7aa5d9ed1444b15a90056eebdb4aa3680ef9823"
 
@@ -126,19 +138,19 @@ hash = "b7101a1608e1f511641eb05e8606337bf444a3ff0961d1f7207a5a50e4eb1703"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "5f8706825554436abd091170cd31861aba5224526e6725f254afe111ae568e0d"
+hash = "175ebc43dac312faaab5d0d9f44ef7c75eda248987f21a969f50cfabe5839fcc"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "9e971d5befe50d4300e4941240fe02740e3fd43ef0ff6cf48165b53446d105ea"
+hash = "172db7c581e36e48c4f98143edf40a159199e13e04025f2af07f90841c24fb69"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "0df2e4fec58532aa97dcbea9e43b574127c2fb2b16a9e6fdb780a3789d1623d6"
+hash = "20181e4855790955be5daefc4cccd538f46f87433750ae6188808938b523181a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "65b2d5f967159f9eb5ddcc26c83d9985c53a6f72b08b52c51971a308efc5afff"
+hash = "0e1ba427d718a3399a826ee5a6d6b68fa86e388368e0ddb10c5225667a1faf20"
 
 [[files]]
 file = "config/zombie_apocalypse.toml"

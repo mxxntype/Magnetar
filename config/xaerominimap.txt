@@ -8,11 +8,11 @@ debugEntityVariantIds:false
 radarHideInvisibleEntities:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:true
-minimap:true
-caveMaps:2
+minimap:false
+caveMaps:3
 caveZoom:1
 showWaypoints:true
-showIngameWaypoints:true
+showIngameWaypoints:false
 displayRedstone:true
 deathpoints:true
 oldDeathpoints:true
@@ -31,17 +31,17 @@ waypointsIngameCloseScale:1.0
 antiAliasing:true
 blockColours:0
 lighting:true
-dotsStyle:0
+dotsStyle:1
 dotNameScale:1.0
 compassOverEverything:true
 showFlowers:true
 keepWaypointNames:true
 waypointsDistanceExp:0
-waypointsDistanceMin:0.0
+waypointsDistanceMin:100.0
 defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
 defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
 arrowScale:1.5
-arrowColour:0
+arrowColour:4
 smoothDots:true
 worldMap:true
 terrainDepth:true
@@ -57,7 +57,7 @@ renderLayerIndex:1
 crossDimensionalTp:true
 biomeColorsVanillaMode:false
 lookingAtAngle:10
-lookingAtAngleVertical:180
+lookingAtAngleVertical:10
 centeredEnlarged:false
 zoomOnEnlarged:0
 minimapTextAlign:0
@@ -85,7 +85,7 @@ displayMultipleWaypointInfo:1
 entityRadar:true
 adjustHeightForCarpetLikeBlocks:true
 autoConvertWaypointDistanceToKmThreshold:10000
-waypointDistancePrecision:1
+waypointDistancePrecision:0
 mainDotSize:2
 partialYTeleportation:true
 deleteReachedDeathpoints:true
@@ -110,7 +110,7 @@ displayCurrentClaim:true
 claimsFillOpacity:46
 claimsBorderOpacity:80
 infoDisplayOrder:coords:overworld_coords:chunk_coords:angles:dimension:biome:weather:light_level:time:real_time:highlights:light_overlay_indicator:manual_cave_mode_indicator:custom_sub_world
-infoDisplay:coords:true:15:-1
+infoDisplay:coords:false:15:-1
 infoDisplay:overworld_coords:false:15:-1
 infoDisplay:chunk_coords:false:15:-1
 infoDisplay:angles:false:15:-1
@@ -124,7 +124,7 @@ infoDisplay:highlights:true:15:-1
 infoDisplay:light_overlay_indicator:true:15:-1
 infoDisplay:manual_cave_mode_indicator:true:15:-1
 infoDisplay:custom_sub_world:true:15:-1
-interface:dummy:0:0:true:false:false:false
+interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false

@@ -571,11 +571,6 @@ hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
 
 [[files]]
-file = "mods/mythic-mobs.pw.toml"
-hash = "d0894852cd61c48705c35729e4dbdd59991d3cae75d72816e89432161a32fd0a"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "bf37aa65287c8b70583b0984e970851e71731e997404fd155a45157af77f582b"
 metafile = true

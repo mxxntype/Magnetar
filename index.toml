@@ -311,6 +311,11 @@ hash = "6d699475c6723e066a6346f6d85b90a5cbc8adc3efe615e0dbcb6cded6ef9a57"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-difficulty.pw.toml"
+hash = "d073b0fbb5438de08d792529c11dbc257f884f774543bc6031ea82e9aa3ccf4d"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "44ef7c1aa70b35cd1fc284bce0b94a8524822670e20b8407cfdc0537cb4fb9d1"
 metafile = true
@@ -471,6 +476,11 @@ hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "f9a4fc63a5e7d097f223434604abfd372e4b0381be180bc48136fee3b6e6b190"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
 metafile = true
@@ -591,6 +601,11 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
+file = "mods/notebook.pw.toml"
+hash = "045a5fea7e7c205a53a94718e6dfe2d6ba67d9fcf8c80e058d3f71b4ad07a769"
+metafile = true
+
+[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
 metafile = true
@@ -618,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
+metafile = true
+
+[[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "5af048eafd9534c111825695ff60b39b709fb3e87d4ea6fae4f62a941728b348"
 metafile = true
 
 [[files]]
@@ -668,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "856d0d1f22c22809bbb904ffa66a5d835914eae9c36874bd1bce488d018c05c0"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "d0f89af10d2d8652d8e0081157d3b9bb1c13917e22eb5a5e4380589def4ca9d6"
 metafile = true
 
 [[files]]

@@ -45,10 +45,6 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "7994ffd6c13fb8c5f42d137fb9a89455878f1c63f36e306271433db4da3c7bcd"
 
 [[files]]
-file = "config/iris.properties"
-hash = "6c3c2ef740e0f13f9ec448d24a2ae65e36b2c9c61d7a076dd6ab9a293418bdb7"
-
-[[files]]
 file = "config/lambdynlights.toml"
 hash = "f7f947ad9b2a4b2fe284fbf4235c8900196d10d4d40752be755ff4eab512c2e8"
 
@@ -938,16 +934,6 @@ file = "shaderpacks/ComplementaryShaders_v4.7.2.zip.txt"
 hash = "ad8ae3b63110bd734ad1f51284977956f28a7f0a809f0ae1a1c1d0a90e9e13f7"
 
 [[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "ce18d14782c7d414c416de2b2613369c23d39a85c252f81ed1073816d5587b44"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-shaders-v4.pw.toml"
 hash = "62907b0a98b3ea75b6ab6efb694685751abbd19aa21826f03de0ab4bc4012fbe"
-metafile = true
-
-[[files]]
-file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "d607da4ce672251838256616b1c6db384f5f0b5d849e428ce05d852d6e9b81ae"
 metafile = true

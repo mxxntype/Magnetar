@@ -57,6 +57,10 @@ file = "config/legendarytooltips-common.toml"
 hash = "590f7789de64b653aff4b52e8b62d45cbeb85b14d4896009dec0ae6f14df645e"
 
 [[files]]
+file = "config/mindfuldarkness-client.toml"
+hash = "5859573326388676f335823d764eaf73f1f66e48b17e336731ebb6e5219b8ede"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "c0146f2884d0a9b847937d855f1d65fa1db32389f71099a4db1a7c8faae80dc0"
 
@@ -573,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "f41977c88e6d08e246c919a0f959ac284c4bd7761b887b823c897741a658671e"
 metafile = true
 
 [[files]]

@@ -510,6 +510,11 @@ hash = "fa5530839aad943f430618d03a19c4f5fdfaa42fa35273be0ec9806f595cd363"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "caececdea119fdfeb079b1e6fb3d470cf9be0a2917bb87882548ae3d3876151c"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true

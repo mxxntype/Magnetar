@@ -330,11 +330,6 @@ hash = "d073b0fbb5438de08d792529c11dbc257f884f774543bc6031ea82e9aa3ccf4d"
 metafile = true
 
 [[files]]
-file = "mods/dungeons-and-taverns.pw.toml"
-hash = "44ef7c1aa70b35cd1fc284bce0b94a8524822670e20b8407cfdc0537cb4fb9d1"
-metafile = true
-
-[[files]]
 file = "mods/durability-plus.pw.toml"
 hash = "a8cc0a09d6c4e5df9c831b572ce937a0b348d8aa215e76cc2890b0fd8de0b816"
 metafile = true

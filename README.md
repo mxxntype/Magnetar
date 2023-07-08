@@ -18,6 +18,11 @@ And there is so much more... take a look at the `mods` folder.
 
 ---
 
+### Beware 🍁
+Releases are being shipped with *the game preconfigured to my liking, including keybindings and other stuff*. Of course this is not very convenient, but I don't yet know how to avoid this without removing my entire `options.txt` from the repo.
+
+---
+
 ### Tools used 🌱
 - [Modrinth](https://modrinth.com/)
 - [CurseForge](https://www.curseforge.com/)

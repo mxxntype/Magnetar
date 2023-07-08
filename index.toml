@@ -38,7 +38,7 @@ hash = "c433167e240a6612e2993f19293cc1281de444f92bf8f764a6303a306b09a07f"
 
 [[files]]
 file = "config/farsighted_mobs.json5"
-hash = "1f38f70265b93e9747868be992d27c09e759f6fa37a0f3cbbc09f4689561889c"
+hash = "054cf5ac92470bf964a878c75355c0c7313df447ab1a6b51845122d7bfccb998"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"

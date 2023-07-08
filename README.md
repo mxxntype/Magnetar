@@ -1,6 +1,6 @@
 ### Metadata 🌿
 - Game version: `1.19.2`
-- Modloader: [Quilt](https://quiltmc.org/) `1.19.1`
+- Modloader: [Quilt](https://quiltmc.org/) `0.19.1`
 - Mod count: **~150**
 
 ---

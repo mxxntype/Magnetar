@@ -290,6 +290,11 @@ hash = "4624545fb9b7d701566f0766e803835fdf4d3a0471bf34fbca9ccb72a7290f29"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "bc53f7664438ab4e84ac236950bc75a61b2945e32f51777c358187a9bf581dd3"
+metafile = true
+
+[[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "d534926f442e45db8010ea2c19efb8d544842e2dc2518a47f8d863ef5ee351c8"
 metafile = true

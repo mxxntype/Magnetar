@@ -157,10 +157,6 @@ file = "config/yosbr/options.txt"
 hash = "2853bd8828698f1f6d605aed6eb53a17a30951b4c1ebc76e2915b62f4dc5d381"
 
 [[files]]
-file = "config/zombie_apocalypse.toml"
-hash = "197b9a68daaf6165d0593e39a8b61ce663fd1855fc945e80ac90e399240dfa73"
-
-[[files]]
 file = "config/zoomify.json"
 hash = "c2eba94538da8019fdaead74c2aef71a0a3148c78c3818bac3fa4bf1202b7c06"
 
@@ -852,11 +848,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
-metafile = true
-
-[[files]]
-file = "mods/zombie-apocalypse.pw.toml"
-hash = "ee8afaf6efa971392674fb78f362e4234f42cde24b4ea1645cecc3703cec7a5c"
 metafile = true
 
 [[files]]

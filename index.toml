@@ -286,6 +286,26 @@ hash = "4624545fb9b7d701566f0766e803835fdf4d3a0471bf34fbca9ccb72a7290f29"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "7f569940a5ff22da0d824925fcc7803f753bda4310dde1dbf4781f1f244acd55"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "f168637b2633a19a5d69ac629540dee9db8fc782548148fccb2fc36fa5100ee0"
+metafile = true
+
+[[files]]
+file = "mods/ctov-friends-and-foes-compat.pw.toml"
+hash = "1050b5b5e07b9b03c2457ddcc4cb47d8f1846a4f8b09619fd2a9a2fea33936ae"
+metafile = true
+
+[[files]]
+file = "mods/ctov-waystone-compat.pw.toml"
+hash = "4c572863449a8e8355870f80cc1ac419845250463b8df43243951f5feaeab461"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "bc53f7664438ab4e84ac236950bc75a61b2945e32f51777c358187a9bf581dd3"
 metafile = true
@@ -466,8 +486,8 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "56e6a38e855626a5a4e621df4af12d1396e7be90ddd87565bd45fe480df16551"
+file = "mods/friends-and-foes.pw.toml"
+hash = "b9d1827bdef50112f795a7e7be041381d4eed6af1c4cf3ee6aab902123030f1e"
 metafile = true
 
 [[files]]

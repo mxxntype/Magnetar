@@ -286,6 +286,11 @@ hash = "d534926f442e45db8010ea2c19efb8d544842e2dc2518a47f8d863ef5ee351c8"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "ee791485dbd1008c51079c693960b6555311d2fc44d2a4901b7f4455d00eea24"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true

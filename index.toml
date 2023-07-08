@@ -221,6 +221,11 @@ hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
@@ -233,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "dcde5bfabe35341d1dedeb43ce46c4f9310c02a3ba3aad8402933a4e3bdfc491"
-metafile = true
-
-[[files]]
-file = "mods/cluttered.pw.toml"
-hash = "61ab2538b0f8afa68459be882972d32861cb41fb6ac38ba301d26ba4e45590e5"
 metafile = true
 
 [[files]]
@@ -478,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/grind-enchantments.pw.toml"
 hash = "f9a4fc63a5e7d097f223434604abfd372e4b0381be180bc48136fee3b6e6b190"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
 metafile = true
 
 [[files]]

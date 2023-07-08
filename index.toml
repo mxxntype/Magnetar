@@ -154,7 +154,7 @@ hash = "0e1ba427d718a3399a826ee5a6d6b68fa86e388368e0ddb10c5225667a1faf20"
 
 [[files]]
 file = "config/zombie_apocalypse.toml"
-hash = "aff9c3f5ceaeed9cc9c137480830f554656df6ba68627ca64f33486032b23cc2"
+hash = "197b9a68daaf6165d0593e39a8b61ce663fd1855fc945e80ac90e399240dfa73"
 
 [[files]]
 file = "config/zoomify.json"

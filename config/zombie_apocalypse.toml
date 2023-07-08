@@ -4,7 +4,7 @@ frostZombieChance = 0.01
 fireZombieChance = 0.01
 
 [spawn]
-spawnInstantly = false
+spawnInstantly = true
 minPlayerDistance = 16.0
 maxZombieCount = 64
 allowedDimensions = ["overworld"]
@@ -29,7 +29,7 @@ min = 24
 max = 64
 
 [spawn.timeRange]
-min = 13000
+min = 14000
 max = 20000
 
 [Armor]

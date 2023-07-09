@@ -1,10 +1,6 @@
-### Metadata 🌿
-- Game version: `1.19.2`
-- Modloader: [Quilt](https://quiltmc.org/) `0.19.1`
-- Mod count: **~150**
-
----
-
+![Static Badge](https://img.shields.io/badge/Minecraft-1.19.2-a6e3a1?style=flat&logoColor=a6e3a1&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Quilt-0.19.1-f5c2e7?style=flat&logoColor=f5c2e7&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Mods-~150-fab387?style=flat&logoColor=fab387&labelColor=313244)
 ### Idea 🌾
 I wanted to create a modpack that would expand on a lot of aspects of the game in a vanilla-friendly fashion, without breaking immersion and making the entire thing look like a giant pile of mods thrown together with barely any integration. Here's an overview of the things I wanted to expand upon:
 

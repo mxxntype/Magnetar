@@ -26,7 +26,7 @@ hash = "fde8c58332cc411aae826c90e5eb0e7b2bb6f3b37b9cc16750773da32ed6f546"
 
 [[files]]
 file = "config/dashloader.json"
-hash = "ac9529240c8bc45a57f53a8a5d9f60fd0f171c21064e60a123ba0618bd498f3b"
+hash = "fa473dfc037f0ce79a95c7143fc9d85c299d3e24b19e779e0de47668a7fd65d6"
 
 [[files]]
 file = "config/emi.css"
@@ -897,11 +897,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/creative-tooltips-(legendary-tooltips-mod).pw.toml"
 hash = "5a7c5114882435fbd90bafc5f6b48cb9c6ee3215aa476987cf415d17a047862b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "b9f6961e8ede891072ef0dcb212bce67a414bfcb9872b17a897582a0883f9804"
 metafile = true
 
 [[files]]

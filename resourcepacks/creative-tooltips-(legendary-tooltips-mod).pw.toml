@@ -1,13 +1,13 @@
 name = "Creative Tooltips (Legendary Tooltips)"
-filename = "Creative Tooltips.zip"
+filename = "Creative tooltips.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yn9kII4c/versions/YhBWMBFV/Creative%20Tooltips.zip"
+url = "https://cdn.modrinth.com/data/yn9kII4c/versions/sI84faUg/Creative%20tooltips.zip"
 hash-format = "sha1"
-hash = "a2e017bec54cfeb16fa90593bcd3269165c0909e"
+hash = "793cdc6557eb525c5843014c41a11d3c794cd7ad"
 
 [update]
 [update.modrinth]
 mod-id = "yn9kII4c"
-version = "YhBWMBFV"
+version = "sI84faUg"
